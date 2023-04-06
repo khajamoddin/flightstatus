@@ -1,0 +1,6 @@
+certifi==2022.12.7
+charset-normalizer==3.1.0
+idna==3.4
+-e git+https://github.com/openskynetwork/opensky-api.git@0a4259acee4e17d7e9b2f88e1d3c59d52f01afbf#egg=opensky_api&subdirectory=python
+requests==2.28.2
+urllib3==1.26.15
