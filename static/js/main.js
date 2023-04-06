@@ -1,0 +1,1 @@
+console.log('Flight Status App');

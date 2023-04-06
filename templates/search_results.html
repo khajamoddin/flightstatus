@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Flight {{ flight_number }}</h2>
+  <p>Departure airport: {{ departure_airport }}</p>
+  <p>Arrival airport: {{ arrival_airport }}</p>
+  <p>Status: {{ status }}</p>
+  <div id="map"></div>
+{% endblock %}
+
+{% block scripts %}
+  <script src="https://cdn.mapkit.io/v1/leaflet-1.7.1.min.js"></script>
+  <script type="text/javascript">
+    var map = L.map('map').setView([{{ latitude }}, {{ longitude }}], 5);
+    L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    L.marker([{{ latitude }}, {{ longitude }}]).addTo(map)
+      .bindPopup('Flight {{ flight_number }}')
+      .openPopup();
+  </script>
+{% endblock %}

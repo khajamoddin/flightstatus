@@ -1,0 +1,101 @@
+2023-04-05 18:46:25,511 INFO  * Detected change in '/home/khajamoddin/flighstatus/flightstatus/app.py', reloading
+2023-04-05 18:46:28,073 INFO 127.0.0.1 - - [05/Apr/2023 18:46:28] "GET / HTTP/1.1" 200 -
+2023-04-05 18:46:29,887 INFO 127.0.0.1 - - [05/Apr/2023 18:46:29] "GET / HTTP/1.1" 200 -
+2023-04-05 18:46:35,039 INFO Searching for flight LH804
+2023-04-05 18:46:35,041 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:46:35,365 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=LH804&time=0 HTTP/1.1" 404 0
+2023-04-05 18:46:35,367 INFO Response status code: 404
+2023-04-05 18:46:35,367 ERROR An error occurred while retrieving live tracking data for flight LH804
+2023-04-05 18:46:35,368 INFO 127.0.0.1 - - [05/Apr/2023 18:46:35] "POST / HTTP/1.1" 200 -
+2023-04-05 18:48:26,793 INFO 127.0.0.1 - - [05/Apr/2023 18:48:26] "GET / HTTP/1.1" 200 -
+2023-04-05 18:48:32,394 INFO Searching for flight LH804
+2023-04-05 18:48:32,396 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:48:32,714 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=LH804&time=0 HTTP/1.1" 404 0
+2023-04-05 18:48:32,715 INFO Response status code: 404
+2023-04-05 18:48:32,716 ERROR An error occurred while retrieving live tracking data for flight LH804
+2023-04-05 18:48:32,716 INFO 127.0.0.1 - - [05/Apr/2023 18:48:32] "POST / HTTP/1.1" 200 -
+2023-04-05 18:51:00,551 INFO 127.0.0.1 - - [05/Apr/2023 18:51:00] "GET / HTTP/1.1" 200 -
+2023-04-05 18:51:28,665 INFO Searching for flight EW8212
+2023-04-05 18:51:28,666 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:51:28,985 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=EW8212&time=0 HTTP/1.1" 404 0
+2023-04-05 18:51:28,986 INFO Response status code: 404
+2023-04-05 18:51:28,986 ERROR An error occurred while retrieving live tracking data for flight EW8212
+2023-04-05 18:51:28,987 INFO 127.0.0.1 - - [05/Apr/2023 18:51:28] "POST / HTTP/1.1" 200 -
+2023-04-05 18:51:39,117 INFO 127.0.0.1 - - [05/Apr/2023 18:51:39] "GET / HTTP/1.1" 200 -
+2023-04-05 18:51:56,384 INFO Searching for flight LH2420
+2023-04-05 18:51:56,386 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:51:56,724 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=LH2420&time=0 HTTP/1.1" 404 0
+2023-04-05 18:51:56,725 INFO Response status code: 404
+2023-04-05 18:51:56,725 ERROR An error occurred while retrieving live tracking data for flight LH2420
+2023-04-05 18:51:56,726 INFO 127.0.0.1 - - [05/Apr/2023 18:51:56] "POST / HTTP/1.1" 200 -
+2023-04-05 18:51:59,551 INFO 127.0.0.1 - - [05/Apr/2023 18:51:59] "GET / HTTP/1.1" 200 -
+2023-04-05 18:54:21,172 INFO Searching for flight SAS1044
+2023-04-05 18:54:21,173 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:54:21,533 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=SAS1044&time=0 HTTP/1.1" 404 0
+2023-04-05 18:54:21,535 INFO Response status code: 404
+2023-04-05 18:54:21,535 ERROR An error occurred while retrieving live tracking data for flight SAS1044
+2023-04-05 18:54:21,536 INFO 127.0.0.1 - - [05/Apr/2023 18:54:21] "POST / HTTP/1.1" 200 -
+2023-04-05 18:54:24,431 INFO 127.0.0.1 - - [05/Apr/2023 18:54:24] "GET / HTTP/1.1" 200 -
+2023-04-05 18:54:48,370 INFO Searching for flight BCS6789
+2023-04-05 18:54:48,372 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:54:48,688 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=BCS6789&time=0 HTTP/1.1" 404 0
+2023-04-05 18:54:48,689 INFO Response status code: 404
+2023-04-05 18:54:48,689 ERROR An error occurred while retrieving live tracking data for flight BCS6789
+2023-04-05 18:54:48,690 INFO 127.0.0.1 - - [05/Apr/2023 18:54:48] "POST / HTTP/1.1" 200 -
+2023-04-05 18:55:06,869 INFO 127.0.0.1 - - [05/Apr/2023 18:55:06] "GET / HTTP/1.1" 200 -
+2023-04-05 18:55:15,202 INFO Searching for flight KLM82W
+2023-04-05 18:55:15,203 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:55:15,533 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=KLM82W&time=0 HTTP/1.1" 404 0
+2023-04-05 18:55:15,534 INFO Response status code: 404
+2023-04-05 18:55:15,535 ERROR An error occurred while retrieving live tracking data for flight KLM82W
+2023-04-05 18:55:15,536 INFO 127.0.0.1 - - [05/Apr/2023 18:55:15] "POST / HTTP/1.1" 200 -
+2023-04-05 18:55:28,108 INFO 127.0.0.1 - - [05/Apr/2023 18:55:28] "GET / HTTP/1.1" 200 -
+2023-04-05 18:58:47,601 INFO Searching for flight G82507
+2023-04-05 18:58:47,603 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 18:58:47,957 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=G82507&time=0 HTTP/1.1" 404 0
+2023-04-05 18:58:47,960 INFO Response status code: 404
+2023-04-05 18:58:47,961 ERROR An error occurred while retrieving live tracking data for flight G82507
+2023-04-05 18:58:47,962 INFO 127.0.0.1 - - [05/Apr/2023 18:58:47] "POST / HTTP/1.1" 200 -
+2023-04-05 19:04:13,870 INFO 127.0.0.1 - - [05/Apr/2023 19:04:13] "GET / HTTP/1.1" 200 -
+2023-04-05 19:06:43,941 INFO Searching for flight ZS-KAL
+2023-04-05 19:06:43,943 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:06:44,333 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=ZS-KAL&time=0 HTTP/1.1" 404 0
+2023-04-05 19:06:44,336 INFO Response status code: 404
+2023-04-05 19:06:44,337 ERROR An error occurred while retrieving live tracking data for flight ZS-KAL
+2023-04-05 19:06:44,338 INFO 127.0.0.1 - - [05/Apr/2023 19:06:44] "POST / HTTP/1.1" 200 -
+2023-04-05 19:07:00,178 INFO 127.0.0.1 - - [05/Apr/2023 19:07:00] "GET / HTTP/1.1" 200 -
+2023-04-05 19:07:03,877 INFO Searching for flight 009A84
+2023-04-05 19:07:03,879 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:07:04,207 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=009A84&time=0 HTTP/1.1" 404 0
+2023-04-05 19:07:04,208 INFO Response status code: 404
+2023-04-05 19:07:04,209 ERROR An error occurred while retrieving live tracking data for flight 009A84
+2023-04-05 19:07:04,209 INFO 127.0.0.1 - - [05/Apr/2023 19:07:04] "POST / HTTP/1.1" 200 -
+2023-04-05 19:07:17,316 INFO 127.0.0.1 - - [05/Apr/2023 19:07:17] "GET / HTTP/1.1" 200 -
+2023-04-05 19:07:21,240 INFO Searching for flight 009AD8
+2023-04-05 19:07:21,241 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:07:21,455 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=009AD8&time=0 HTTP/1.1" 404 0
+2023-04-05 19:07:21,457 INFO Response status code: 404
+2023-04-05 19:07:21,458 ERROR An error occurred while retrieving live tracking data for flight 009AD8
+2023-04-05 19:07:21,458 INFO 127.0.0.1 - - [05/Apr/2023 19:07:21] "POST / HTTP/1.1" 200 -
+2023-04-05 19:07:28,109 INFO 127.0.0.1 - - [05/Apr/2023 19:07:28] "GET / HTTP/1.1" 200 -
+2023-04-05 19:11:19,389 INFO 127.0.0.1 - - [05/Apr/2023 19:11:19] "GET / HTTP/1.1" 200 -
+2023-04-05 19:11:41,045 INFO Searching for flight LH804
+2023-04-05 19:11:41,046 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:11:41,380 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=LH804&time=0 HTTP/1.1" 404 0
+2023-04-05 19:11:41,381 INFO Response status code: 404
+2023-04-05 19:11:41,382 ERROR An error occurred while retrieving live tracking data for flight LH804
+2023-04-05 19:11:41,382 INFO 127.0.0.1 - - [05/Apr/2023 19:11:41] "POST / HTTP/1.1" 200 -
+2023-04-05 19:11:50,927 INFO 127.0.0.1 - - [05/Apr/2023 19:11:50] "GET / HTTP/1.1" 200 -
+2023-04-05 19:13:12,706 INFO Searching for flight SK739
+2023-04-05 19:13:12,707 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:13:13,046 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=SK739&time=0 HTTP/1.1" 404 0
+2023-04-05 19:13:13,047 INFO Response status code: 404
+2023-04-05 19:13:13,048 ERROR An error occurred while retrieving live tracking data for flight SK739
+2023-04-05 19:13:13,048 INFO 127.0.0.1 - - [05/Apr/2023 19:13:13] "POST / HTTP/1.1" 200 -
+2023-04-05 19:13:17,518 INFO Searching for flight SK739
+2023-04-05 19:13:17,519 DEBUG Starting new HTTPS connection (1): opensky-network.org:443
+2023-04-05 19:13:17,842 DEBUG https://opensky-network.org:443 "GET /api/tracks/all?icao24=SK739&time=0 HTTP/1.1" 404 0
+2023-04-05 19:13:17,844 INFO Response status code: 404
+2023-04-05 19:13:17,844 ERROR An error occurred while retrieving live tracking data for flight SK739
+2023-04-05 19:13:17,845 INFO 127.0.0.1 - - [05/Apr/2023 19:13:17] "POST / HTTP/1.1" 200 -
+2023-04-05 19:13:20,039 INFO 127.0.0.1 - - [05/Apr/2023 19:13:20] "GET / HTTP/1.1" 200 -
